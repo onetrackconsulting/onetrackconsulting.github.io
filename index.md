@@ -1,2 +1,2 @@
 
-A full service consultancy specializing in distributed systems and comfortable with physical, cloud and edge platforms.  Experienced across full SDLC including early stage product development and working out of the eastern time zone,
+A full service consultancy specializing in distributed systems and comfortable with physical, cloud and edge platforms.  Currently working out of the eastern time zone and experienced across the full SDLC including early stage product development, rescue and retirement.  Also very experienced working with open source projects, both as a maintainer and as an outside contributor.  Open to part- and full-time arrangements.
