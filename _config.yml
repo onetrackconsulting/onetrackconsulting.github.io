@@ -3,3 +3,6 @@ title: One Track Consulting, LLC
 description: >- 
   When the path you're on is the one that matters.
 logo: images/OneTrack_rgb.png
+github:
+  is_user_page: true
+  owner_url: https://github.com/AlexCuse
