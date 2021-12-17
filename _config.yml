@@ -6,3 +6,5 @@ logo: images/OneTrack_rgb.png
 github:
   is_user_page: true
   owner_url: https://github.com/AlexCuse
+
+theme: jekyll-theme-minimal
